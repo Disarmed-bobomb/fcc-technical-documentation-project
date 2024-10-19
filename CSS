@@ -1,0 +1,6 @@
+@media (min-width: 500px) {
+  * {
+    background-color: black;
+    color: goldenrod;
+  }
+}
